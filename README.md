@@ -11,3 +11,7 @@
 [응급실(Queue)](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%9D%91%EA%B8%89%EC%8B%A4(Queue).md)
 
 [문장 속 단어(indexOf(),substring())](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EB%AC%B8%EC%9E%A5%20%EC%86%8D%20%EB%8B%A8%EC%96%B4(indexOf()%2Csubstring()).md)
+
+[단어뒤집기](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0.md)
+
+[교육과정 설계(Queue)](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%20%EC%84%A4%EA%B3%84(Queue).md)
