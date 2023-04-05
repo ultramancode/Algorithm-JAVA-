@@ -19,3 +19,7 @@
 [특정문자뒤집기](https://github.com/ultramancode/Algorithm-JAVA-/commit/78357281e641e5eef205b35c1f9a988d430ebcb4)
 
 [공주 구하기](https://github.com/ultramancode/Algorithm-JAVA-/commit/8f1140680b514af7da955e604a4ba90673564c41)
+
+[쇠막대기](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0(Stack).md)
+
+[중복문자제거](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%A4%91%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0.md)
