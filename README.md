@@ -23,3 +23,7 @@
 [쇠막대기](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0(Stack).md)
 
 [중복문자제거](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%A4%91%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0.md)
+
+[후위식 연산(postfix)](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%9B%84%EC%9C%84%EC%8B%9D%20%EC%97%B0%EC%82%B0(postfix).md)
+
+[회문문자열](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%9A%8C%EB%AC%B8%EB%AC%B8%EC%9E%90%EC%97%B4.md)
