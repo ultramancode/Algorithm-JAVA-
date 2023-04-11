@@ -27,3 +27,5 @@
 [후위식 연산(postfix)](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%9B%84%EC%9C%84%EC%8B%9D%20%EC%97%B0%EC%82%B0(postfix).md)
 
 [회문문자열](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%9A%8C%EB%AC%B8%EB%AC%B8%EC%9E%90%EC%97%B4.md)
+
+[유효한 펠린드롬](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%9C%A0%ED%9A%A8%ED%95%9C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
