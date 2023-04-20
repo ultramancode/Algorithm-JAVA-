@@ -31,3 +31,7 @@
 [유효한 펠린드롬](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%9C%A0%ED%9A%A8%ED%95%9C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
 
 [숫자만추출](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.md)
+
+[가장 짧은 거리](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EA%B0%80%EC%9E%A5%EC%A7%A7%EC%9D%80%EB%AC%B8%EC%9E%90%EA%B1%B0%EB%A6%AC.md)
+
+[문자열압축](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.md)
