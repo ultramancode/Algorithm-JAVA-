@@ -38,4 +38,4 @@
 
 [암호](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%95%94%ED%98%B8.md)
 
-[숫자만추출](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.md)
+[큰수입력하기](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%81%B0%EC%88%98%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0.md)
