@@ -35,3 +35,7 @@
 [가장 짧은 거리](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EA%B0%80%EC%9E%A5%EC%A7%A7%EC%9D%80%EB%AC%B8%EC%9E%90%EA%B1%B0%EB%A6%AC.md)
 
 [문자열압축](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.md)
+
+[암호](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%95%94%ED%98%B8.md)
+
+[숫자만추출](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.md)
