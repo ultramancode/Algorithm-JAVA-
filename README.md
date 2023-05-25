@@ -41,3 +41,5 @@
 [큰수입력하기](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%81%B0%EC%88%98%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0.md)
 
 [큰수출력하기](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%ED%81%B0%EC%88%98%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
+
+[보이는학생](https://github.com/ultramancode/Algorithm-JAVA-/blob/main/%EB%B3%B4%EC%9D%B4%EB%8A%94%ED%95%99%EC%83%9D.md)
